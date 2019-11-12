@@ -1,7 +1,11 @@
 first_number = 5
 
-second_number = 6
+second_number = 10
 
-sum = #{first_number} + #{second_number}
+sum = 15
 
-difference = 
+difference = -5
+
+product = 50
+
+quotient = 0.5
