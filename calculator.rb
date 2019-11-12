@@ -1,11 +1,11 @@
-first_number = 5
+first_number = 10
 
 second_number = 10
 
-sum = 15
+sum = 20
 
-difference = -5
+difference = 0
 
-product = 50
+product = 100
 
-quotient = .5
+quotient = 1
