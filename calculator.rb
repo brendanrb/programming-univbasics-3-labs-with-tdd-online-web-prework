@@ -8,4 +8,4 @@ difference = -5
 
 product = 50
 
-quotient = 0.5
+quotient = .5
